@@ -4,3 +4,6 @@
 [submodule "EC"]
 	path = EC
 	url = https://github.com/Eleee28/MSP430FR6989_device.git
+[submodule "talks/RNN"]
+	path = talks/RNN
+	url = https://github.com/Eleee28/Workshop-RNN.git
