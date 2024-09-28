@@ -7,3 +7,6 @@
 [submodule "talks/RNN"]
 	path = talks/RNN
 	url = https://github.com/Eleee28/Workshop-RNN.git
+[submodule "subjects/TOC"]
+	path = subjects/TOC
+	url = https://github.com/Eleee28/VHDL_projects.git
