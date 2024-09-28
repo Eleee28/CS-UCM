@@ -1,3 +1,6 @@
 [submodule "ED"]
 	path = ED
 	url = https://github.com/Eleee28/ED.git
+[submodule "EC"]
+	path = EC
+	url = https://github.com/Eleee28/MSP430FR6989_device.git
