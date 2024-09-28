@@ -1,8 +1,8 @@
-[submodule "ED"]
-	path = ED
+[submodule "subjects/ED"]
+	path = subjects/ED
 	url = https://github.com/Eleee28/ED.git
-[submodule "EC"]
-	path = EC
+[submodule "subjects/EC"]
+	path = subjects/EC
 	url = https://github.com/Eleee28/MSP430FR6989_device.git
 [submodule "talks/RNN"]
 	path = talks/RNN
