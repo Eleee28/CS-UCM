@@ -10,3 +10,6 @@
 [submodule "subjects/TOC"]
 	path = subjects/TOC
 	url = https://github.com/Eleee28/VHDL_projects.git
+[submodule "subjects/TP1"]
+	path = subjects/TP1
+	url = https://github.com/Eleee28/SpaceInvadersProject.git
